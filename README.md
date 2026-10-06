@@ -1,8 +1,8 @@
-Embed customizable itch.io game cards directly inside Gutenberg editor with theme options and side-padding controls.
+Embed customizable itch.io game cards directly inside Wordpress editor with theme options and side-padding controls.
 
 ###
 
-**Itch.io Embed** is the ultimate Gutenberg block for indie game developers, bloggers, and gaming journalists who want to showcase itch.io game cards seamlessly on WordPress.
+**Itch.io Embed** is the ultimate Wordpress block for indie game developers, bloggers, and gaming journalists who want to showcase itch.io game cards seamlessly on WordPress.
 Paste your game URL, and the plugin automatically fetches game data via REST API to build a clean, interactive iframe widget.
 
 ### Key Features
